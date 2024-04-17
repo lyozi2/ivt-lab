@@ -87,7 +87,7 @@ public class GT4500 implements SpaceShip {
           firingSuccess = secondaryTorpedoStore.fire(1);
           wasPrimaryFiredLast = false;
         }
-        // nem kesz
+        // kesz
         break;
     }
 
